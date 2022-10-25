@@ -1,7 +1,6 @@
 import java.util.Scanner;
 public class BurcBulma {
     public static void main(String[] args) {
-        boolean error = true;
         String ay, ay1 = "ocak", ay2 = "şubat", ay3 = "mart", ay4 = "nisan", ay5= "mayıs", ay6 = "haziran";
         String ay7 = "temmuz", ay8= "ağustos", ay9 = "eylül", ay10= "ekim", ay11 = "kasım", ay12 = "aralık";
         String burc = "";
